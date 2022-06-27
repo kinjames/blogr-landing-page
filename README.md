@@ -2,7 +2,7 @@
 
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
-This is a solution to the [Blogr landing page](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3-column-preview-card-4M3yZ0OoC5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Blogr landing page](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP/hub/blogrlanding-page-CvOiqbHmY4). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3-column-preview-card-4M3yZ0OoC5)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/blogrlanding-page-CvOiqbHmY4)
 - Live Site URL: [Github](https://kinjames.github.io/blogr-landing-page/)
 
 ## My process
@@ -41,6 +41,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- JavaScript
 
 ### Layout
 
