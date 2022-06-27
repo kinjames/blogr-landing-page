@@ -12,7 +12,7 @@ btns.forEach(btn => {
         document.getElementById("myDropdown2").classList.toggle("show");
       }
     })
-  })
+})
 
 window.onclick = function(event) {
     if (!event.target.matches('.dropbtn')) {
@@ -25,13 +25,14 @@ window.onclick = function(event) {
         }
       }
     }
-  }
+}
 
 
 
-  const hamburger = document.querySelector(".hamburger");
+const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".nav-menu");
 const arrow = document.querySelector(".arrow");
+
 
 
 
@@ -44,3 +45,5 @@ document.querySelectorAll(".nav-link").forEach(n => n.addEventListener("click", 
     hamburger.classList.remove("active");
     navMenu.classList.remove("active");
 }))
+
+
